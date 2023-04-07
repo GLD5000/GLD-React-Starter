@@ -1,13 +1,5 @@
 # GLD React Starter
 
-## Made with:
-
-- Vite & SWC
-- React & TypeScript
-- TailwindCSS
-- Prettier & Eslint (with Airbnb style)
-- Husky & Lint-Staged
-
 ## Includes:
 
 - Light / Dark mode
@@ -16,6 +8,14 @@
 - Simple Footer
 - Custom accessible colour scheme built in
 - Accesible link to skip to main content
+
+## Made with:
+
+- Vite & SWC
+- React & TypeScript
+- TailwindCSS
+- Prettier & Eslint (with Airbnb style)
+- Husky & Lint-Staged
 
 ## Make it your own:
 
