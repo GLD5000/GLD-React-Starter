@@ -16,7 +16,7 @@ export default function Header({
   return (
     <header
       id="top"
-      className="absolute top-0 left-0 right-0 z-[999] grid h-fit w-screen flex-shrink-0 flex-grow-0 grid-cols-frAutoFr content-center border-b bg-bg dark:bg-bg-dk"
+      className="absolute top-0 left-0 right-0 z-[999] grid h-fit w-screen flex-shrink-0 flex-grow-0 grid-cols-frAutoFr content-center border-b-2 border-border dark:border-border-dk bg-bg dark:bg-bg-dk"
     >
       <div className=" col-start-2 ">
         <div
